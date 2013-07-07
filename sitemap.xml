@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://:.github.com/up-to-eleven/</loc>
+        <lastmod>2013-07-07T17:47:07+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://:.github.com/blog/archives/</loc>
-        <lastmod>2013-07-07T16:03:02+01:00</lastmod>
+        <lastmod>2013-07-07T17:47:07+01:00</lastmod>
     </url>
     <url>
         <loc>http://:.github.com/blog/</loc>
-        <lastmod>2013-07-07T16:03:02+01:00</lastmod>
+        <lastmod>2013-07-07T17:47:07+01:00</lastmod>
     </url>
     <url>
         <loc>http://:.github.com/front/</loc>

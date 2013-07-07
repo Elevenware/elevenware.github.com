@@ -4,7 +4,7 @@
   <title><![CDATA[Elevenware Limited]]></title>
   <link href="http://:.github.com/atom.xml" rel="self"/>
   <link href="http://:.github.com/"/>
-  <updated>2013-07-07T16:56:23+01:00</updated>
+  <updated>2013-07-07T17:49:45+01:00</updated>
   <id>http://:.github.com/</id>
   <author>
     <name><![CDATA[George McIntosh]]></name>
@@ -12,5 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[up to eleven]]></title>
+    <link href="http://:.github.com/up-to-eleven/"/>
+    <updated>2013-07-07T17:31:00+01:00</updated>
+    <id>http://:.github.com/up-to-eleven</id>
+    <content type="html"><![CDATA[<p>I did a number of things for my most recent client, around automation and the build pipeline. I introduced them to the notion of using <a href="http://puppetlabs.org">Puppet</a> to help them provision boxes, and I formulated an idea for a more complete build pipeline. All in all, their build pipeline isn&#8217;t half bad. They use Jenkins to run unit tests, build artifacts and push those artifacts to a Nexus repo, or to Spacewalk/RHN Satellite. But I, and one of their engineers, thought it could be better.</p>
+
+<p>What if, we thought, we could not only run our standard tests automatically, but also bring up the actual software deployment in a virtual machine, and run an automated acceptance suite? What if, once this had happened, the software was packaged up nicely and pushed to other channels in Spacewalk, for deployment to UAT? What if we could deploy some stuff straight to production? We had ideas.</p>
+
+<p>Then I remembered my previous client, a startup, who hired me to kickstart the development of one of their products. I went in and there was literally nothing there, just some designs, and BitBucket and Rackspace accounts. I hand-whittled servers together, the build processes, the single-click deployment scripts and such-like, all the while wishing I could get it done faster.</p>
+
+<p>So with this in mind, I&#8217;ve decided to prepare myself for the next time someone hires me to get their greenfield project off the ground. I&#8217;ve started building the &#8216;Up to Eleven&#8217; stack, which aims to give me exactly what I wish I&#8217;d had before. Everything I need to check out code, build it, test it, deploy it to live, with the minimum of fuss. I look forward to keeping this blog up to date with progress on it.</p>
+]]></content>
+  </entry>
   
 </feed>
