@@ -1,11 +1,16 @@
 body > header {
   background: $header-bg;
+
   h1 {
-    display: inline-block;
+    font-size: 6.2m;
+    display: block;
+    height: 120px;
     margin: 0;
+    background: transparent url(/images/logo.png) no-repeat top left;
     a, a:visited, a:hover {
       color: $title_color;
       text-decoration: none;
+      margin-left: 165px;
     }
   }
   h2 {
