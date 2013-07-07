@@ -1,0 +1,4 @@
+DevOps
+------
+
+I have experience of automating builds, deployments, provisioning of environments using [Jenkins](http://jenkins-ci.org), [Puppet](https://puppetlabs.com/) and [Vagrant](http://vagrantup.com). For a recent client, I brought the building of an environment down from several days, to a matter of minutes. I also kickstarted a project to build an entire build/deploy pipeline that would take their code from check-in, through rigorous automated tests, into a virtualised environment for smoke tests, to packaging and into deployment with little manual input. I'm currently working on productising this offering.
